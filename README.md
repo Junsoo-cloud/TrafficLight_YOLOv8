@@ -27,3 +27,14 @@ This project implements a real-time traffic signal control system using YOLOv8 f
    ```bash
    git clone https://github.com/yourusername/traffic-signal-control.git
    cd traffic-signal-control
+Create a virtual environment and activate it:
+
+## 📂 Project Structure
+
+.
+├── input/                  # Input video folder
+├── output/                 # Output video folder
+├── main.py                 # Python script for YOLO and Arduino integration
+├── arduino_code.ino        # Arduino code for traffic signal control
+├── requirements.txt        # Required Python libraries
+└── README.md               # Project documentation
