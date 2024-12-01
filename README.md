@@ -30,8 +30,7 @@ This project implements a real-time traffic signal control system using YOLOv8 f
 Create a virtual environment and activate it:
 
 ## 📂 Project Structure
-
-'''
+```bash
 ├── input/                  # Input video folder
 ├── output/                 # Output video folder
 ├── main.py                 # Python script for YOLO and Arduino integration
