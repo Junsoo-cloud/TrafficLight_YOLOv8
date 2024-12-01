@@ -25,8 +25,8 @@ This project implements a real-time traffic signal control system using YOLOv8 f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/traffic-signal-control.git
-   cd traffic-signal-control
+   git clone https://github.com/Junsoo-cloud/TrafficLight_YOLOv8.git
+   cd TrafficLight_YOLOv8
 Create a virtual environment and activate it:
 
 ## 📂 Project Structure
